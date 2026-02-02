@@ -14,7 +14,9 @@
 
 ## About
 
-Football Shirt Collection is a modern web application designed for football shirt enthusiasts to catalog, track, and analyze their jersey collections. Built with a focus on user experience, it provides powerful tools to manage your collection with detailed statistics and beautiful visualizations.
+As a football shirt collector, I found myself struggling to keep track of my growing collection. Spreadsheets felt clunky, notes got lost, and I had no way to visualize what I actually owned. So I built the tool I wished existed.
+
+Football Shirt Collection is a modern web application that lets you catalog every jersey you own, track its value over time, and discover insights about your collection through beautiful charts and statistics. Whether you have 5 shirts or 500, this app helps you organize, analyze, and showcase your passion for football shirts.
 
 ---
 
