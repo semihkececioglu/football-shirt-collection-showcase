@@ -2,7 +2,7 @@
 
 # Football Shirt Collection
 
-**Track, organize, and showcase your football shirt collection**
+**Track, organize, and showcase your football shirt collection with a social platform for collectors**
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-footballshirtcollection.app-4CAF50?style=for-the-badge)](https://footballshirtcollection.app)
 
@@ -16,17 +16,36 @@
 
 As a football shirt collector, I found myself struggling to keep track of my growing collection. Spreadsheets felt clunky, notes got lost, and I had no way to visualize what I actually owned. So I built the tool I wished existed.
 
-Football Shirt Collection is a modern web application that lets you catalog every jersey you own, track its value over time, and discover insights about your collection through beautiful charts and statistics. Whether you have 5 shirts or 500, this app helps you organize, analyze, and showcase your passion for football shirts.
+Football Shirt Collection is a modern web application that lets you catalog every jersey you own, track its value over time, and discover insights about your collection through beautiful charts and statistics. With the new social platform, you can follow other collectors, explore trending shirts, earn achievements, and build a community around your shared passion. Whether you have 5 shirts or 500, this app helps you organize, analyze, and showcase your collection.
 
 ---
 
 ## Features
 
 ### Collection Management
-- Add shirts with comprehensive details: team, brand, season, condition, size, and purchase price
-- Upload multiple images per shirt
+- Add shirts with comprehensive details: team, brand, season, condition, size, color, and purchase price
+- Upload multiple images per shirt with drag-and-drop reordering
 - Filter and sort your collection with advanced options
-- Bulk actions for managing multiple items
+- Grid and table view layouts
+- Mark player issue editions
+- Visual color swatches for primary and detail colors
+
+### Social & Explore
+- Public profiles with bio, social links, and featured shirts
+- Follow other collectors and build your network
+- Like and save shirts from other collectors
+- Threaded commenting system on shirt details
+- Social feed with shirts from collectors you follow
+- Explore page with popular collectors, trending shirts, and recent additions
+- Leaderboard ranking top collectors
+- User search to discover collectors
+- Privacy controls for profile visibility
+
+### Notifications & Achievements
+- Real-time notifications for follows, likes, and comments
+- Customizable notification preferences
+- Achievement badges across categories: Collection, Diversity, Social, Wishlist, and Special
+- Progress tracking toward each badge
 
 ### Statistics & Analytics
 - Interactive dashboard with collection insights
@@ -39,11 +58,18 @@ Football Shirt Collection is a modern web application that lets you catalog ever
 - Set priority levels for items
 - Track price history and availability
 
+### Safety & Moderation
+- Report inappropriate content with admin review workflow
+- User blocking system
+- Content moderation tools
+
 ### User Experience
 - Dark and light theme support
 - Fully responsive design for all devices
 - Available in 6 languages: English, German, Spanish, French, Italian, Turkish
 - Progressive Web App (PWA) support
+- Changelog with version history
+- What's New announcements for new features
 
 ### Security
 - Secure authentication with Google OAuth and email/password
@@ -58,6 +84,48 @@ Football Shirt Collection is a modern web application that lets you catalog ever
 Browse and manage your shirts with powerful filtering and sorting capabilities.
 
 ![Collection](screenshots/collection.png)
+
+---
+
+### Explore
+Discover popular collectors, trending shirts, and the latest additions from the community.
+
+![Explore](screenshots/explore.png)
+
+---
+
+### Public Profile
+Showcase your collection with a public profile, follower stats, and featured shirts.
+
+![Public Profile](screenshots/public-profile.png)
+
+---
+
+### Social Feed
+Stay up to date with shirts from collectors you follow.
+
+![Feed](screenshots/feed.png)
+
+---
+
+### Achievements
+Earn badges and track your progress across multiple categories.
+
+![Achievements](screenshots/achievements.png)
+
+---
+
+### Leaderboard
+See top collectors ranked by collection size and likes received.
+
+![Leaderboard](screenshots/leaderboard.png)
+
+---
+
+### Notifications
+Stay informed with real-time alerts for follows, likes, and comments.
+
+![Notifications](screenshots/notifications.png)
 
 ---
 
