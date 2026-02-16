@@ -87,6 +87,13 @@ Browse and manage your shirts with powerful filtering and sorting capabilities.
 
 ---
 
+### Shirt Detail
+View comprehensive shirt information with image gallery, color swatches, and social interactions.
+
+![Shirt Detail](screenshots/shirt-detail.png)
+
+---
+
 ### Explore
 Discover popular collectors, trending shirts, and the latest additions from the community.
 
